@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 import pickle
-import scikit-learn as sklearn
+import sklearn
 
 data=pd.read_csv('height_weight_data.csv')
 st.title('Height Weight Calculator')

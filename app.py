@@ -13,3 +13,4 @@ if height:
 
     st.write(f'Your weight should be: {result[0].round(2)} kg')
     #st.write(result[0])
+
